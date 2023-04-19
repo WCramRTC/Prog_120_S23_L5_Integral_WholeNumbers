@@ -4,18 +4,21 @@
     {
         static void Main(string[] args)
         {
+            // Different Size buckets
             // int, unit
             // short, ushort
             // byte, sbyte
-            
-            // parse
-            // Parsing is a method used to tell the computer to check if a string is actually a type of number
-
 
             // math operators : + , - , * , / , %
             // operations change depending on the types were working with
             // string + string : Contatenates
             // number + number : does math
+
+            // parse
+            // Parsing is a method used to tell the computer to check if a string is actually a type of number
+
+
+
 
             Console.WriteLine("Hello, World!");
         }
